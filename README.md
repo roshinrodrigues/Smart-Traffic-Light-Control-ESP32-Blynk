@@ -4,6 +4,13 @@ Project Overview
 
 This project aims to develop a smart traffic management system that adjusts traffic signals based on vehicle density using ESP32 and the Blynk IoT platform.
 
+ Project Details
+
+- Project Type: Academic Team Project
+- Domain: Electronics and IoT
+- Technologies: ESP32, Blynk, Arduino IDE
+- Contribution: Team-based development and implementation.
+  
 Objectives
 
 - Monitor traffic density.
